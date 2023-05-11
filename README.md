@@ -1,4 +1,4 @@
-# Barcode Reading Experiment w/ Python
+# Barcode Experiment w/ Python
 
 ## Usage
 
